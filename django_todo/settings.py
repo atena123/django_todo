@@ -33,7 +33,7 @@ SECRET_KEY = '*8*5_ui#acw#_%e@%4lk596q9*ac^8gbl$2&d=@+18s!9q-@a4'
 DEBUG = development
 
 ALLOWED_HOSTS = ['54c7d6466e9e49718b03a8427cb372a3.vfs.cloud9.us-east-1.amazonaws.com',
-                 os.environ.get('HOSTNAME')]
+                 'simple-django-todo2.herokuapp.com']
 
 
 # Application definition
